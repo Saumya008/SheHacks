@@ -3,7 +3,12 @@
   padding: 0;
   margin: 0;
 }
+.conatiner
+{
+  background-color: #20bf55;
+  background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 
+}
 .block {
   background-color: white;
 
